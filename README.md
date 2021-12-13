@@ -8,5 +8,4 @@ My main programming language is JavaScript. But I'm trying other languages 😄.
 You can find me on:
 
 • 👔 [LinkedIn](https://www.linkedin.com/in/daniel-salmerón-alvarado-780508216/)
-
 • 💚 [My Platzi Profile](https://platzi.com/p/danielsa2818/)
