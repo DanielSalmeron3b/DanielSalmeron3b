@@ -31,5 +31,6 @@ My main programming language is JavaScript. But I'm trying other languages 😄.
 </div>
   <a href = "https://steamcommunity.com/profiles/76561199021729651/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
+
 ![Snake animation](https://github.com/DanielSalmeron3b/DanielSalmeron3b/blob/output/github-contribution-grid-snake.svg)
 
