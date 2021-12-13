@@ -5,7 +5,7 @@ I'm a self-taught programmer and my dream is to impact people's lives for the be
 
 My main programming language is JavaScript. But I'm trying other languages 😄.
 
-You can find me on:
+# You can find me on:
 
 • 👔 [LinkedIn](https://www.linkedin.com/in/daniel-salmerón-alvarado-780508216/)
 
