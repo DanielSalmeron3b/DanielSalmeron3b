@@ -2,7 +2,7 @@
 
 I'm a self-taught programmer and my dream is to impact people's lives for the better through my code 🌐.
 
-My main programming language is JavaScript. But I'm trying other languages 😄.
+My main programming languages are JavaScript and Python. But I'm trying other languages 😄.
 
 <div align="center">
   <a href="https://github.com/DanielSalmeron3b">
